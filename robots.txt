@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jabranadeel.tech/sitemap.xml
